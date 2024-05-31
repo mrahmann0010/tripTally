@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tripTally/static/css/main.86f6cad3.css",
+    "main.js": "/tripTally/static/js/main.a28284e8.js",
+    "static/media/7.jpg": "/tripTally/static/media/7.3af9fd158303ca9943f2.jpg",
+    "index.html": "/tripTally/index.html",
+    "main.86f6cad3.css.map": "/tripTally/static/css/main.86f6cad3.css.map",
+    "main.a28284e8.js.map": "/tripTally/static/js/main.a28284e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f6cad3.css",
+    "static/js/main.a28284e8.js"
+  ]
+}
